@@ -1,0 +1,62 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #ccc;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+header {
+  margin-bottom: 30px;
+}
+
+header a {
+  display: block;
+  margin: 10px 0;
+}
+
+.matched {
+  width: 300px;
+}
+
+ul li {
+  list-style: none;
+}
+
+a {
+  display: inline-block;
+  margin: 10px 10px;
+  color: black;
+}
+
+a {
+  text-decoration: none;
+}
+
+form ul li {
+  margin: 10px 0;
+}
+
+form ul li label {
+  display: inline-block;
+  width: 100px;
+}
+
+form ul li input {
+  padding: 7px 14px;
+}
+
+button {
+  margin-top: 30px;
+  padding: 7px 14px;
+}
+
+main ul li {
+  margin: 10px 0;
+}
+
